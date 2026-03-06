@@ -53,15 +53,6 @@ Je suis en première année de BTS SIO option SLAM et j'évolue en alternance ch
 <img src="https://www.google.com/search?q=https://img.shields.io/badge/API_REST-005571%3Fstyle%3Dfor-the-badge%26logo%3Djson%26logoColor%3Dwhite" alt="API"/>
 </p>
 
-⚡ Discipline & Mindset
-
-Le développement n'est pas mon seul domaine de performance. Je suis un compétiteur assidu sur League of Legends, et l'exigence de l'E-sport façonne ma façon de travailler dans l'IT :
-
-🧠 Théorie & Data : J'utilise Notion pour structurer mon apprentissage, et j'analyse les données pour m'améliorer, que ce soit en jeu ou en monitorant mes serveurs.
-
-🛡️ Les Fondamentaux (SBA) : Tout comme le Snapshot, Bait, Aggro en jeu, je crois aux bases solides en code : architecture propre, sécurité (tokens), et gestion rigoureuse des backups.
-
-🔥 Mental : La résilience et la remise en question nécessaires pour progresser et monter dans le classement sont les mêmes que celles requises pour débugger une infrastructure critique ou mener à bien un projet complexe.
 
 <div align="center">
 
@@ -71,4 +62,5 @@ Le développement n'est pas mon seul domaine de performance. Je suis un compéti
 <img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3Dmaellecomte%26layout%3Dcompact%26theme%3Dtokyonight%26hide_border%3Dtrue%26bg_color%3D0D1117" height="160" alt="Langages les plus utilisés"/>
 
 </div>
+
 
