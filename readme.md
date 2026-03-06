@@ -1,20 +1,6 @@
 <h1 align="center">Salut 👋, je suis Maël</h1>
 <h3 align="center">Développeur | Ingénieur Système</h3>
 
-👨‍💻 À propos de moi
-
-Je suis en première année de BTS SIO option SLAM et j'évolue en alternance chez Transport France Alliance. Mon profil se situe à la croisée du développement logiciel, de l'administration système et de l'automatisation. Mon ambition ? Concevoir des architectures complètes, performantes et sur-mesure.
-
-🔭 Actuellement : Je développe des solutions internes (API, serveurs, automatisation) en alternance.
-
-🌱 Mon terrain de jeu : Mon infrastructure Homelab, où j'expérimente avec le réseau, les tunnels sécurisés et l'IA locale.
-
-🎯 Objectif : Maîtriser l'architecture de bout en bout (du serveur bare-metal jusqu'à l'interface utilisateur) pour créer des solutions toujours plus innovantes.
-
-📫 Me contacter : ton.email@domaine.com
-
-🚀 Mes Projets & Réalisations
-
 <table width="100%">
 <tr>
 <td width="50%" valign="top">
@@ -62,6 +48,7 @@ Je suis en première année de BTS SIO option SLAM et j'évolue en alternance ch
 <img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3Dmaellecomte%26layout%3Dcompact%26theme%3Dtokyonight%26hide_border%3Dtrue%26bg_color%3D0D1117" height="160" alt="Langages les plus utilisés"/>
 
 </div>
+
 
 
 
