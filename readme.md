@@ -1,5 +1,5 @@
 <h1 align="center">Salut 👋, je suis Maël</h1>
-<h3 align="center">Développeur | Ingénieur Système Junior | Stratège</h3>
+<h3 align="center">Développeur | Ingénieur Système</h3>
 
 👨‍💻 À propos de moi
 
@@ -62,5 +62,6 @@ Je suis en première année de BTS SIO option SLAM et j'évolue en alternance ch
 <img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3Dmaellecomte%26layout%3Dcompact%26theme%3Dtokyonight%26hide_border%3Dtrue%26bg_color%3D0D1117" height="160" alt="Langages les plus utilisés"/>
 
 </div>
+
 
 
