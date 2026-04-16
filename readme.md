@@ -4,43 +4,42 @@
 
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Mono&size=14&pause=1200&color=7F77DD&center=true&vCenter=true&width=520&lines=I+ship+full-stack+products.;I+train+ML+models+in+prod.;I+automate+everything+I+touch.;I+speak+Python%2C+TS+%26+YAML+fluently.;I+break+things+%E2%80%94+then+fix+them+better.)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Mono&size=14&pause=1200&color=7F77DD&center=true&vCenter=true&width=560&lines=%C3%89tudiant+BTS+SIO+option+SLAM+%C2%B7+MDS+Angers;Alternance+%3A+admin+parc+%26+d%C3%A9veloppement+d%27apps;Passionn%C3%A9+par+le+d%C3%A9veloppement+et+l%27administration+syst%C3%A8me;HTML%2C+CSS%2C+JavaScript%2C+Python%2C+Docker%E2%80%A6;Portfolio+%3A+mael-lecomte.fr)
 
 </div>
 
 ---
 
-# Hey, I'm Mael Lecomte 👋
+# Salut, je suis Mael Lecomte
 
-> Je construis des systèmes qui tournent vite, pensent fort et tombent rarement.
-> De la ligne de commande au modèle de prod, j'aime avoir les mains dans tout.
+> Étudiant en **BTS SIO option SLAM** à My Digital School (Angers), passionné par le **développement d’applications** et l’**administration système**.  
+> En **alternance** chez **Anjou Acheminement** : gestion de parc informatique, développement d’applications internes et support utilisateurs.
 
 &nbsp;
 
-![Full-Stack](https://img.shields.io/badge/Full--Stack-378ADD?style=flat-square&labelColor=E6F1FB&color=378ADD&logoColor=185FA5)
-![Data / AI](https://img.shields.io/badge/Data%20%2F%20AI-7F77DD?style=flat-square&labelColor=EEEDFE&color=7F77DD)
-![DevOps · Infra](https://img.shields.io/badge/DevOps%20%C2%B7%20Infra-1D9E75?style=flat-square&labelColor=E1F5EE&color=1D9E75)
-![Paris, FR](https://img.shields.io/badge/Paris%2C%20FR-D85A30?style=flat-square&labelColor=FAECE7&color=D85A30)
-![Open to work](https://img.shields.io/badge/%E2%97%8F%20open%20to%20work-639922?style=flat-square&labelColor=EAF3DE&color=639922)
+![BTS SIO SLAM](https://img.shields.io/badge/BTS%20SIO-SLAM-378ADD?style=flat-square&labelColor=E6F1FB&color=378ADD&logoColor=185FA5)
+![Alternance](https://img.shields.io/badge/Alternance-Anjou%20Acheminement-7F77DD?style=flat-square&labelColor=EEEDFE&color=7F77DD)
+![Dev & Sys](https://img.shields.io/badge/D%C3%A9veloppement%20%26%20Admin%20syst%C3%A8me-1D9E75?style=flat-square&labelColor=E1F5EE&color=1D9E75)
+![Angers](https://img.shields.io/badge/Angers%2C%20France-D85A30?style=flat-square&labelColor=FAECE7&color=D85A30)
 
 ---
 
-## `// stack`
+## `// stack` (aperçu)
 
 <table>
   <tr>
-    <td align="center" width="100"><b>⚡ Python</b><br/><sub>Backend / ML</sub></td>
-    <td align="center" width="100"><b>🌐 TypeScript</b><br/><sub>Frontend / API</sub></td>
-    <td align="center" width="100"><b>⚛️ React</b><br/><sub>UI / DX</sub></td>
-    <td align="center" width="100"><b>🐳 Docker</b><br/><sub>Containers</sub></td>
-    <td align="center" width="100"><b>☸️ Kubernetes</b><br/><sub>Orchestration</sub></td>
+    <td align="center" width="100"><b>🌐 Front</b><br/><sub>HTML · CSS · JavaScript</sub></td>
+    <td align="center" width="100"><b>🐍 Python</b><br/><sub>Apps · Raspberry Pi</sub></td>
+    <td align="center" width="100"><b>⚛️ React</b><br/><sub>SPA · Vite · Tailwind</sub></td>
+    <td align="center" width="100"><b>🔧 Back</b><br/><sub>NestJS · FastAPI · PHP</sub></td>
+    <td align="center" width="100"><b>🐳 Docker</b><br/><sub>Compose · déploiement</sub></td>
   </tr>
   <tr>
-    <td align="center" width="100"><b>🤖 PyTorch</b><br/><sub>Deep Learning</sub></td>
-    <td align="center" width="100"><b>📦 PostgreSQL</b><br/><sub>Data Store</sub></td>
-    <td align="center" width="100"><b>🔁 CI/CD</b><br/><sub>GH Actions</sub></td>
-    <td align="center" width="100"><b>☁️ Terraform</b><br/><sub>IaC</sub></td>
-    <td align="center" width="100"><b>🦜 LangChain</b><br/><sub>LLM Pipelines</sub></td>
+    <td align="center" width="100"><b>🗄️ SQL</b><br/><sub>PostgreSQL · SQLite</sub></td>
+    <td align="center" width="100"><b>🖥️ Linux</b><br/><sub>Serveurs · Ubuntu</sub></td>
+    <td align="center" width="100"><b>📡 Réseau</b><br/><sub>DNS · DHCP · outils</sub></td>
+    <td align="center" width="100"><b>🔀 Git</b><br/><sub>GitHub</sub></td>
+    <td align="center" width="100"><b>🛠️ Outils</b><br/><sub>Wireshark · Office · veille</sub></td>
   </tr>
 </table>
 
@@ -75,39 +74,55 @@
 ```python
 class MaelLecomte:
     def __init__(self):
-        self.role        = "Full-Stack · Data / AI · DevOps"
-        self.location    = "Paris, France 🗼"
-        self.stack       = ["Python", "TypeScript", "React", "Docker", "K8s", "PyTorch"]
-        self.interests   = ["LLMs in production", "MLOps", "distributed systems", "clean APIs"]
-        self.currently   = "Building things that scale 🚀"
-        self.open_to     = ["freelance", "missions", "collabs open-source"]
+        self.formation   = "BTS SIO option SLAM — My Digital School (Angers)"
+        self.alternance  = "Anjou Acheminement — admin parc & dev d'apps"
+        self.focus       = ["développement web & applicatif", "admin système & réseau", "Docker", "veille techno"]
+        self.localisation = "Angers, France"
 
-    def contact(self):
-        return "mail@maellecomte.dev"
+    def portfolio(self):
+        return "https://mael-lecomte.fr"
 ```
 
 ---
 
-## `// projets`
-
-> 🔧 *Section à remplir — remplace ces blocs par tes vrais repos !*
+## `// projets` (extraits du portfolio)
 
 <table>
   <tr>
     <td width="50%">
-      <h3>📦 project-one</h3>
-      <p>Description courte du projet. Ce qu'il fait, pourquoi c'est cool.</p>
-      <img src="https://img.shields.io/badge/Python-EAF3DE?style=flat-square&color=639922" />
-      <img src="https://img.shields.io/badge/FastAPI-E1F5EE?style=flat-square&color=1D9E75" />
+      <h3>🖥️ Serveur Ubuntu</h3>
+      <p>Installation et administration d’un serveur Linux (Apache, SSH, DNS, DHCP) en réseau local.</p>
+      <img src="https://img.shields.io/badge/Linux-Ubuntu-EAF3DE?style=flat-square&color=639922" />
+      <img src="https://img.shields.io/badge/Apache-DNS-DHCP-E1F5EE?style=flat-square&color=1D9E75" />
     </td>
     <td width="50%">
-      <h3>🤖 project-two</h3>
-      <p>Description courte du projet. Ce qu'il fait, pourquoi c'est cool.</p>
-      <img src="https://img.shields.io/badge/TypeScript-EEEDFE?style=flat-square&color=7F77DD" />
-      <img src="https://img.shields.io/badge/React-E6F1FB?style=flat-square&color=378ADD" />
+      <h3>📺 Affichage dynamique v2</h3>
+      <p>Digital signage : API NestJS, React, PostgreSQL, MinIO, Docker — pilotage d’écrans à distance.</p>
+      <a href="https://github.com/maellecomte/affichage-dynamique-v2"><img src="https://img.shields.io/badge/GitHub-repo-EEEDFE?style=flat-square&color=7F77DD&logo=github" /></a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3>🪪 Badgeuse chauffeurs</h3>
+      <p>Pointage multi-sites (iButton, Raspberry Pi) + plateforme web FastAPI, React, PostgreSQL, n8n.</p>
+      <a href="https://github.com/maellecomte/badgeuse"><img src="https://img.shields.io/badge/GitHub-repo-E6F1FB?style=flat-square&color=378ADD&logo=github" /></a>
+    </td>
+    <td width="50%">
+      <h3>🍓 Raspberry Pi multi-services</h3>
+      <p>Docker, Portainer, n8n, expérimentation Llama 3, hébergement local sur le LAN.</p>
+      <img src="https://img.shields.io/badge/Docker-n8n-FAECE7?style=flat-square&color=D85A30" />
     </td>
   </tr>
 </table>
+
+---
+
+## `// veille` (thèmes suivis)
+
+- **IA** — LLM, Llama 3, automatisation  
+- **Cybersécurité** — bonnes pratiques, RGPD, sécurisation réseau  
+- **Cloud & DevOps** — Docker, Portainer, n8n  
+- **Développement web** — frameworks, standards, bonnes pratiques  
 
 ---
 
@@ -115,14 +130,16 @@ class MaelLecomte:
 
 <div align="left">
 
-[![Email](https://img.shields.io/badge/mail%40maellecomte.dev-FAECE7?style=for-the-badge&labelColor=FAECE7&color=D85A30&logo=gmail&logoColor=993C1D)](mailto:mail@maellecomte.dev)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-E6F1FB?style=for-the-badge&labelColor=E6F1FB&color=378ADD&logo=linkedin&logoColor=185FA5)](https://linkedin.com/in/maellecomte)
-[![Portfolio](https://img.shields.io/badge/Portfolio-EEEDFE?style=for-the-badge&labelColor=EEEDFE&color=7F77DD&logo=safari&logoColor=534AB7)](https://maellecomte.dev)
+[![Email](https://img.shields.io/badge/mael.lecomte1%40gmail.com-FAECE7?style=for-the-badge&labelColor=FAECE7&color=D85A30&logo=gmail&logoColor=993C1D)](mailto:mael.lecomte1@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-E6F1FB?style=for-the-badge&labelColor=E6F1FB&color=378ADD&logo=linkedin&logoColor=185FA5)](https://www.linkedin.com/in/maellecomte/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-mael--lecomte.fr-EEEDFE?style=for-the-badge&labelColor=EEEDFE&color=7F77DD&logo=safari&logoColor=534AB7)](https://mael-lecomte.fr)
+
+[![GitHub](https://img.shields.io/badge/GitHub-maellecomte-181717?style=for-the-badge&logo=github)](https://github.com/maellecomte)
 
 </div>
 
 ---
 
 <div align="center">
-  <sub>crafted with <code>vim</code> + too much ☕ — no AI was used to write this bio 😌</sub>
+  <sub>Profil aligné sur mon <a href="https://mael-lecomte.fr">portfolio BTS SIO</a></sub>
 </div>
