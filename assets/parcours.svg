@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="286" viewBox="0 0 900 286">
+  <foreignObject width="900" height="286">
+    <div xmlns="http://www.w3.org/1999/xhtml" class="wrap">
+      <style>
+* { box-sizing: border-box; margin: 0; padding: 0; }
+.wrap { width: 100%; height: 100%; font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Helvetica Neue", Helvetica, Arial, sans-serif; color: #111; background: #fff;
+  border: 1px solid #d0d7de; border-radius: 12px; overflow: hidden; position: relative; }
+.muted { color: #59636e; }
+.mono { font-family: ui-monospace, "SF Mono", "Cascadia Code", Menlo, Consolas, monospace; }
+.tag { display: inline-block; font: 500 11.5px ui-monospace, "SF Mono", "Cascadia Code", Menlo, Consolas, monospace; color: #59636e; border: 1px solid #d0d7de;
+  border-radius: 6px; padding: 3px 7px; margin: 0 4px 4px 0; }
+.dot { width: 7px; height: 7px; border-radius: 50%; background: #1a7f37; display: inline-block;
+  box-shadow: 0 0 0 0 rgba(26,127,55,.5); animation: pulse 2.2s ease-out infinite; }
+@keyframes pulse { 0% { box-shadow: 0 0 0 0 rgba(26,127,55,.45); } 70% { box-shadow: 0 0 0 7px rgba(26,127,55,0); } 100% { box-shadow: 0 0 0 0 rgba(26,127,55,0); } }
+@keyframes up { from { opacity: 0; transform: translateY(6px); } to { opacity: 1; transform: none; } }
+.in { animation: up .7s ease-out both; }
+@media (prefers-color-scheme: dark) {
+  .wrap { background: #0d1117; color: #f0f6fc; border-color: #30363d; }
+  .muted { color: #9198a1; }
+  .tag { color: #9198a1; border-color: #30363d; }
+  .dot { background: #3fb950; }
+}
+
+.tl { padding: 24px 28px; }
+.it { display: grid; grid-template-columns: 120px 18px 1fr; align-items: start; animation: up .6s ease-out both; }
+.yr { font-size: 12.5px; padding-top: 2px; }
+.rail { position: relative; height: 100%; }
+.rail::before { content: ""; position: absolute; left: 4px; top: 8px; bottom: -8px; width: 1px; background: #d0d7de; }
+.it:last-child .rail::before { display: none; }
+.pt { position: absolute; left: 0; top: 4px; width: 9px; height: 9px; border-radius: 50%; border: 1.5px solid #59636e; background: #fff; }
+.now .pt { background: #1a7f37; border-color: #1a7f37; }
+.tx { font-size: 14px; padding-bottom: 16px; }
+.tx span { display: block; font-size: 12.5px; margin-top: 2px; }
+@media (prefers-color-scheme: dark) {
+  .rail::before { background: #30363d; }
+  .pt { border-color: #9198a1; background: #0d1117; }
+  .now .pt { background: #3fb950; border-color: #3fb950; }
+}
+</style>
+<div class="tl"><div class="it now" style="animation-delay:0.0s"><div class="yr mono muted">2025 – auj.</div><div class="rail"><span class="pt"></span></div><div class="tx">Alternance développement et support<span class="muted">Anjou Acheminement / Transport France Alliance</span></div></div>
+<div class="it now" style="animation-delay:0.1s"><div class="yr mono muted">2025 – 2027</div><div class="rail"><span class="pt"></span></div><div class="tx">BTS SIO option SLAM<span class="muted">My Digital School Angers</span></div></div>
+<div class="it" style="animation-delay:0.2s"><div class="yr mono muted">2024 – 2025</div><div class="rail"><span class="pt"></span></div><div class="tx">Département de Maine-et-Loire<span class="muted">Direction générale adjointe · bases de données, Excel avancé</span></div></div>
+<div class="it" style="animation-delay:0.3s"><div class="yr mono muted">2024 – 2025</div><div class="rail"><span class="pt"></span></div><div class="tx">Bac pro Systèmes numériques<span class="muted">Mention Bien</span></div></div>
+<div class="it" style="animation-delay:0.4s"><div class="yr mono muted">2023 – 2024</div><div class="rail"><span class="pt"></span></div><div class="tx">Technicien de maintenance<span class="muted">Eolane, PC Anjou Tiercé, Media Clinic</span></div></div>
+</div>
+    </div>
+  </foreignObject>
+</svg>

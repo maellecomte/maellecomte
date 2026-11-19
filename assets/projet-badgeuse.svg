@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="440" height="210" viewBox="0 0 440 210">
+  <foreignObject width="440" height="210">
+    <div xmlns="http://www.w3.org/1999/xhtml" class="wrap">
+      <style>
+* { box-sizing: border-box; margin: 0; padding: 0; }
+.wrap { width: 100%; height: 100%; font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Helvetica Neue", Helvetica, Arial, sans-serif; color: #111; background: #fff;
+  border: 1px solid #d0d7de; border-radius: 12px; overflow: hidden; position: relative; }
+.muted { color: #59636e; }
+.mono { font-family: ui-monospace, "SF Mono", "Cascadia Code", Menlo, Consolas, monospace; }
+.tag { display: inline-block; font: 500 11.5px ui-monospace, "SF Mono", "Cascadia Code", Menlo, Consolas, monospace; color: #59636e; border: 1px solid #d0d7de;
+  border-radius: 6px; padding: 3px 7px; margin: 0 4px 4px 0; }
+.dot { width: 7px; height: 7px; border-radius: 50%; background: #1a7f37; display: inline-block;
+  box-shadow: 0 0 0 0 rgba(26,127,55,.5); animation: pulse 2.2s ease-out infinite; }
+@keyframes pulse { 0% { box-shadow: 0 0 0 0 rgba(26,127,55,.45); } 70% { box-shadow: 0 0 0 7px rgba(26,127,55,0); } 100% { box-shadow: 0 0 0 0 rgba(26,127,55,0); } }
+@keyframes up { from { opacity: 0; transform: translateY(6px); } to { opacity: 1; transform: none; } }
+.in { animation: up .7s ease-out both; }
+@media (prefers-color-scheme: dark) {
+  .wrap { background: #0d1117; color: #f0f6fc; border-color: #30363d; }
+  .muted { color: #9198a1; }
+  .tag { color: #9198a1; border-color: #30363d; }
+  .dot { background: #3fb950; }
+}
+
+.card { padding: 22px 24px; height: 100%; display: flex; flex-direction: column; }
+.top { display: flex; justify-content: space-between; align-items: center; font-size: 12.5px; }
+.state { display: inline-flex; align-items: center; gap: 7px; }
+h2 { font-size: 19px; font-weight: 650; letter-spacing: -.3px; margin-top: 14px; }
+p { font-size: 13.5px; line-height: 1.5; margin-top: 8px; flex: 1; }
+.tags { margin-top: 12px; }
+.arrow { font-size: 13px; }
+</style>
+
+      <div class="card">
+        <div class="top"><span class="muted">Transport France Alliance</span><span class="state"><span class="dot"></span>En service</span></div>
+        <h2>Badgeuse chauffeurs </h2>
+        <p class="muted">Pointage des prises et fins de service sur plusieurs sites : pointages en direct, tournées, historique, exports CSV, API JSON interne.</p>
+        <div class="tags"><span class="tag">Docker Compose</span><span class="tag">MariaDB</span><span class="tag">API JSON</span></div>
+      </div>
+
+    </div>
+  </foreignObject>
+</svg>

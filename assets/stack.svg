@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="250" viewBox="0 0 900 250">
+  <foreignObject width="900" height="250">
+    <div xmlns="http://www.w3.org/1999/xhtml" class="wrap">
+      <style>
+* { box-sizing: border-box; margin: 0; padding: 0; }
+.wrap { width: 100%; height: 100%; font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Helvetica Neue", Helvetica, Arial, sans-serif; color: #111; background: #fff;
+  border: 1px solid #d0d7de; border-radius: 12px; overflow: hidden; position: relative; }
+.muted { color: #59636e; }
+.mono { font-family: ui-monospace, "SF Mono", "Cascadia Code", Menlo, Consolas, monospace; }
+.tag { display: inline-block; font: 500 11.5px ui-monospace, "SF Mono", "Cascadia Code", Menlo, Consolas, monospace; color: #59636e; border: 1px solid #d0d7de;
+  border-radius: 6px; padding: 3px 7px; margin: 0 4px 4px 0; }
+.dot { width: 7px; height: 7px; border-radius: 50%; background: #1a7f37; display: inline-block;
+  box-shadow: 0 0 0 0 rgba(26,127,55,.5); animation: pulse 2.2s ease-out infinite; }
+@keyframes pulse { 0% { box-shadow: 0 0 0 0 rgba(26,127,55,.45); } 70% { box-shadow: 0 0 0 7px rgba(26,127,55,0); } 100% { box-shadow: 0 0 0 0 rgba(26,127,55,0); } }
+@keyframes up { from { opacity: 0; transform: translateY(6px); } to { opacity: 1; transform: none; } }
+.in { animation: up .7s ease-out both; }
+@media (prefers-color-scheme: dark) {
+  .wrap { background: #0d1117; color: #f0f6fc; border-color: #30363d; }
+  .muted { color: #9198a1; }
+  .tag { color: #9198a1; border-color: #30363d; }
+  .dot { background: #3fb950; }
+}
+
+.st { padding: 22px 26px; display: grid; grid-template-columns: 150px 1fr; row-gap: 12px; align-items: baseline; }
+.lab { font-size: 13px; }
+.row { animation: up .6s ease-out both; }
+</style>
+<div class="st"><div class="lab muted row" style="animation-delay:0.0s">Développement</div><div class="row" style="animation-delay:0.0s"><span class="tag">Symfony</span><span class="tag">PHP</span><span class="tag">Doctrine</span><span class="tag">Twig</span><span class="tag">React</span><span class="tag">C#</span><span class="tag">JavaScript</span><span class="tag">HTML / CSS</span><span class="tag">VBA</span></div>
+<div class="lab muted row" style="animation-delay:0.1s">Bases de données</div><div class="row" style="animation-delay:0.1s"><span class="tag">MariaDB</span><span class="tag">MySQL</span><span class="tag">SQLite</span></div>
+<div class="lab muted row" style="animation-delay:0.2s">DevOps</div><div class="row" style="animation-delay:0.2s"><span class="tag">Docker</span><span class="tag">Compose</span><span class="tag">Portainer</span><span class="tag">Git</span><span class="tag">CI/CD</span><span class="tag">nginx</span><span class="tag">Apache</span></div>
+<div class="lab muted row" style="animation-delay:0.3s">Systèmes</div><div class="row" style="animation-delay:0.3s"><span class="tag">Ubuntu</span><span class="tag">Fedora</span><span class="tag">Windows Server</span><span class="tag">Sauvegardes</span><span class="tag">Supervision</span></div>
+<div class="lab muted row" style="animation-delay:0.4s">Réseau / support</div><div class="row" style="animation-delay:0.4s"><span class="tag">pfSense</span><span class="tag">Cloudflare</span><span class="tag">GLPI</span></div>
+<div class="lab muted row" style="animation-delay:0.5s">Autres</div><div class="row" style="animation-delay:0.5s"><span class="tag">Python</span><span class="tag">Raspberry Pi</span><span class="tag">JetBrains</span><span class="tag">Excel avancé</span></div>
+</div>
+    </div>
+  </foreignObject>
+</svg>
